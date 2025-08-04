@@ -29,3 +29,15 @@ game28.dta
 
 # Log files
 warnings.log
+
+
+*.exe
+*.dbg
+*.vox
+*.tra
+*.log
+*.tmp
+*.bak
+Compiled/
+Backup/
+
