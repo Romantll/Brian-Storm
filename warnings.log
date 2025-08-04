@@ -1,2 +1,9 @@
-Game : (room:2) [GlobalScript.asc:660] GUI 0 is set as text window but is not actually a text window GUI
 Game : (room:2) [room2.asc:28] GUI 0 is set as text window but is not actually a text window GUI
+Game : (room:3) [room3.asc:11] GUI 0 is set as text window but is not actually a text window GUI
+Game : (room:3) [room3.asc:41] GUI 0 is set as text window but is not actually a text window GUI
+Game : (room:2) [room2.asc:34] GUI 0 is set as text window but is not actually a text window GUI
+Game : (room:2) [room2.asc:38] SetActiveInventory: character doesn't have any of that inventory
+Game : (room:2) [room2.asc:34] GUI 0 is set as text window but is not actually a text window GUI
+Game : (room:2) [room2.asc:38] SetActiveInventory: character doesn't have any of that inventory
+Game : (room:2) [room2.asc:34] GUI 0 is set as text window but is not actually a text window GUI
+Game : (room:2) [room2.asc:38] SetActiveInventory: character doesn't have any of that inventory
